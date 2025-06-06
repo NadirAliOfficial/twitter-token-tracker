@@ -1,3 +1,3 @@
 # twitter-token-tracker
 Monitor token launches in real-time and act instantly. This bot watches a specified Twitter handle for token contract addresses or presale
-<!-- updated: 2024-12-14-r01 -->
+<!-- updated: 2025-06-06-r01 -->
